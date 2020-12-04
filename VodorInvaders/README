@@ -1,0 +1,18 @@
+ JAVA 11-el csináltam a házimat. Hozzávaló könyvtárat JAVAFX oldaláról szedtem le, mert ugye külön vannak azok csomagolva.
+ 
+ Program: 
+ Space Invaders szerű játék
+ Végtelen játék, így a legtöbb pont megszerzése a cél.
+ Mozgás:
+ Nyilakkal
+ Lövés: 
+ SPACE
+ Gombok:
+ Bal alul PAUSE és UPGRADE WEAPON (csak kattinthatóak)
+ 
+ 3 élet elvesztése után végső pontszám és lehetőség új játék indítására
+ 
+ Ismert hiba: 
+ Néha ha valami éppen úgy van akkor nem spawnol újabb hullámot és elfogynak az ellenfelek. Idő hiányában nem tudtam debugolni, de ritkán fordul elő.
+ 
+ 
